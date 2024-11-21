@@ -9,6 +9,10 @@
     }
   })
 
+$('#repairdesk').on('click', function() {
+    window.location.href = 'https://www.repairdesk.co/'; // Replace with your desired URL
+});
+
   // Preloader
   $(window).on('load', function () {
     if ($('#preloader').length) {
