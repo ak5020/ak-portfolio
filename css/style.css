@@ -745,7 +745,15 @@ hr{
   color: #4e4e4e;
   height: 150px;
   overflow-y: auto;
-    font-size: 14px;
+  font-size: 14px;
+}
+
+.service-box .services-nav-item {
+  display: grid;
+  gap: 8px;
+  color: #4e4e4e;
+  height: 150px;
+  font-size: 14px;
 }
 
 /*======================================
